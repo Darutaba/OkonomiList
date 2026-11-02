@@ -1,0 +1,2 @@
+# IAB Tech Lab app-ads.txt Specification for OkonomiList (AdMob)
+google.com, pub-6698308356476647, DIRECT, f08c47fec0942fa0
